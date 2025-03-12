@@ -3,3 +3,4 @@
 3. Adicionar o arquivo ao repositório (git add aula.txt)
 4. Commitar as mudanças (git commit -m 'mudancas')
 5. Acompanhar usando git log e git status
+6. Acompanhar visualmente
